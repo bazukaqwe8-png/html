@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+    
+}
+.lable{
+   box-sizing: calc(2,2,2,2);
+    color: blueviolet;
+    padding: 40px;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+   
+}
